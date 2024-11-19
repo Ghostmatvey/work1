@@ -1,0 +1,14 @@
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\bin\Debug\net8.0\Методы и классы.exe
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\bin\Debug\net8.0\Методы и классы.deps.json
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\bin\Debug\net8.0\Методы и классы.runtimeconfig.json
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\bin\Debug\net8.0\Методы и классы.dll
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\bin\Debug\net8.0\Методы и классы.pdb
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\Методы и классы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\Методы и классы.AssemblyInfoInputs.cache
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\Методы и классы.AssemblyInfo.cs
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\Методы и классы.csproj.CoreCompileInputs.cache
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\Методы и классы.dll
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\refint\Методы и классы.dll
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\Методы и классы.pdb
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\Методы и классы.genruntimeconfig.cache
+C:\Users\mokro\source\repos\Методы и классы\Методы и классы\obj\Debug\net8.0\ref\Методы и классы.dll
