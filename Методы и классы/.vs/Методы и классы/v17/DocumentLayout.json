@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mokro\\GitHab\\work1\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\",
+  "WorkspaceRootPath": "C:\\Users\\mokro\\source\\repos\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89E2338F-0146-48F4-AC91-342B8BED5C3E}|\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\mokro\\githab\\work1\\\u043C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u043C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{89E2338F-0146-48F4-AC91-342B8BED5C3E}|\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B.csproj|c:\\users\\mokro\\source\\repos\\\u043C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u043C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89E2338F-0146-48F4-AC91-342B8BED5C3E}|\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B.csproj|solutionrelative:\u043C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,14 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mokro\\GitHab\\work1\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mokro\\source\\repos\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\Program.cs",
               "RelativeDocumentMoniker": "\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\Program.cs",
-              "ToolTip": "C:\\Users\\mokro\\GitHab\\work1\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\Program.cs",
+              "ToolTip": "C:\\Users\\mokro\\source\\repos\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\Program.cs",
               "RelativeToolTip": "\u041C\u0435\u0442\u043E\u0434\u044B \u0438 \u043A\u043B\u0430\u0441\u0441\u044B\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-18T06:58:41.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T06:58:41.573Z"
             }
           ]
         }

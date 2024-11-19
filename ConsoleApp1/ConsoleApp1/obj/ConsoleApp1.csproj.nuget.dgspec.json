@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mokro\\source\\repos\\Методы и классы\\Методы и классы\\Методы и классы.csproj": {}
+    "C:\\Users\\mokro\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mokro\\source\\repos\\Методы и классы\\Методы и классы\\Методы и классы.csproj": {
+    "C:\\Users\\mokro\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mokro\\source\\repos\\Методы и классы\\Методы и классы\\Методы и классы.csproj",
-        "projectName": "Методы и классы",
-        "projectPath": "C:\\Users\\mokro\\source\\repos\\Методы и классы\\Методы и классы\\Методы и классы.csproj",
+        "projectUniqueName": "C:\\Users\\mokro\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\mokro\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\mokro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mokro\\source\\repos\\Методы и классы\\Методы и классы\\obj\\",
+        "outputPath": "C:\\Users\\mokro\\source\\repos\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
