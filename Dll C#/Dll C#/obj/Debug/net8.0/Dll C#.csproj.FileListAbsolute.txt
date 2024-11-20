@@ -1,0 +1,19 @@
+C:\Users\mokro\source\repos\Dll C#\Dll C#\bin\Debug\net8.0\Dll C#.exe
+C:\Users\mokro\source\repos\Dll C#\Dll C#\bin\Debug\net8.0\Dll C#.deps.json
+C:\Users\mokro\source\repos\Dll C#\Dll C#\bin\Debug\net8.0\Dll C#.runtimeconfig.json
+C:\Users\mokro\source\repos\Dll C#\Dll C#\bin\Debug\net8.0\Dll C#.dll
+C:\Users\mokro\source\repos\Dll C#\Dll C#\bin\Debug\net8.0\Dll C#.pdb
+C:\Users\mokro\source\repos\Dll C#\Dll C#\bin\Debug\net8.0\DLL.dll
+C:\Users\mokro\source\repos\Dll C#\Dll C#\bin\Debug\net8.0\DLL.pdb
+C:\Users\mokro\source\repos\Dll C#\Dll C#\bin\Debug\net8.0\DLL.pri
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.csproj.AssemblyReference.cache
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.AssemblyInfoInputs.cache
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.AssemblyInfo.cs
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.csproj.CoreCompileInputs.cache
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.csproj.Up2Date
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.dll
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\refint\Dll C#.dll
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.pdb
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\Dll C#.genruntimeconfig.cache
+C:\Users\mokro\source\repos\Dll C#\Dll C#\obj\Debug\net8.0\ref\Dll C#.dll
