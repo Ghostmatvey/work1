@@ -1,0 +1,14 @@
+C:\Users\mokro\source\repos\Исключение\Исключение\bin\Debug\net8.0\Исключение.exe
+C:\Users\mokro\source\repos\Исключение\Исключение\bin\Debug\net8.0\Исключение.deps.json
+C:\Users\mokro\source\repos\Исключение\Исключение\bin\Debug\net8.0\Исключение.runtimeconfig.json
+C:\Users\mokro\source\repos\Исключение\Исключение\bin\Debug\net8.0\Исключение.dll
+C:\Users\mokro\source\repos\Исключение\Исключение\bin\Debug\net8.0\Исключение.pdb
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\Исключение.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\Исключение.AssemblyInfoInputs.cache
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\Исключение.AssemblyInfo.cs
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\Исключение.csproj.CoreCompileInputs.cache
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\Исключение.dll
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\refint\Исключение.dll
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\Исключение.pdb
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\Исключение.genruntimeconfig.cache
+C:\Users\mokro\source\repos\Исключение\Исключение\obj\Debug\net8.0\ref\Исключение.dll
