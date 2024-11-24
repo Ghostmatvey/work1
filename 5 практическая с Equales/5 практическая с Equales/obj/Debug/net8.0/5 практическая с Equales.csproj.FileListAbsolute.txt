@@ -1,0 +1,14 @@
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\bin\Debug\net8.0\5 практическая с Equales.exe
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\bin\Debug\net8.0\5 практическая с Equales.deps.json
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\bin\Debug\net8.0\5 практическая с Equales.runtimeconfig.json
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\bin\Debug\net8.0\5 практическая с Equales.dll
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\bin\Debug\net8.0\5 практическая с Equales.pdb
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\5 практическая с Equales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\5 практическая с Equales.AssemblyInfoInputs.cache
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\5 практическая с Equales.AssemblyInfo.cs
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\5 практическая с Equales.csproj.CoreCompileInputs.cache
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\5 практическая с Equales.dll
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\refint\5 практическая с Equales.dll
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\5 практическая с Equales.pdb
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\5 практическая с Equales.genruntimeconfig.cache
+C:\Users\mokro\source\repos\5 практическая с Equales\5 практическая с Equales\obj\Debug\net8.0\ref\5 практическая с Equales.dll
