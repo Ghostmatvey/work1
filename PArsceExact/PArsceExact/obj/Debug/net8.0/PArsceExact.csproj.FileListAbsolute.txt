@@ -1,0 +1,14 @@
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\bin\Debug\net8.0\PArsceExact.exe
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\bin\Debug\net8.0\PArsceExact.deps.json
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\bin\Debug\net8.0\PArsceExact.runtimeconfig.json
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\bin\Debug\net8.0\PArsceExact.dll
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\bin\Debug\net8.0\PArsceExact.pdb
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\PArsceExact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\PArsceExact.AssemblyInfoInputs.cache
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\PArsceExact.AssemblyInfo.cs
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\PArsceExact.csproj.CoreCompileInputs.cache
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\PArsceExact.dll
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\refint\PArsceExact.dll
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\PArsceExact.pdb
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\PArsceExact.genruntimeconfig.cache
+C:\Users\mokro\source\repos\PArsceExact\PArsceExact\obj\Debug\net8.0\ref\PArsceExact.dll
